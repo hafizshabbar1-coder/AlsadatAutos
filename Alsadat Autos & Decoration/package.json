@@ -1,0 +1,18 @@
+{
+  "name": "alsadat-auto-pos",
+  "version": "1.0.0",
+  "description": "Business Management & POS platform for hardware and auto parts stores",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server -p 3000 -c-1"
+  },
+  "keywords": [
+    "pos",
+    "inventory",
+    "ledger",
+    "auto-parts",
+    "invoice"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
